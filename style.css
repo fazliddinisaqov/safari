@@ -1,0 +1,84 @@
+/* navbar */
+.header-content{
+    background-image: url(img/Rectangle\ 1.jpg);
+    width: 100%;
+    height: 940px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar-btn{
+    width: 215px;
+    height: 44px;
+    border-radius: 22px;
+    background: #886239;
+    border: none;
+    color: white;
+}
+/* navbar end */
+
+/* header */
+.header-top-text h1{
+    font-size: 70px;
+    margin-top: 50px;
+}
+
+.header-bottom-text{
+    margin-top: 450px;
+}
+/* header end */
+
+/* safari */
+.safari{
+    background-image: url(img/panorama-2105955_1920\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: auto;
+    background-color: #886239;
+}
+
+.planet img{
+    border: 2px solid white;
+    padding: 12px;
+    border-radius: 50%;
+}
+/* safari end */
+
+/* sahro */
+.sahro{
+    background-image: url(img/sahro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 256px;
+    height: 256px;
+}
+
+.lion{
+    background-image: url(img/lion.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;   
+    width: 544px;
+    height: 544px;
+}
+/* sahro end */
+/* afrika */
+.afrika{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: auto;
+    background-color: #886239;
+}
+/* afrika end */
+/* maki */
+.maki-h1 h1{
+    font-size: 50px;
+    color: #886239;
+}
+/* maki end */
